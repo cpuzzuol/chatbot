@@ -1,4 +1,4 @@
-`# **ChatGPT + FAR Data**
+# **ChatGPT + FAR Data**
 
 This is a simple Python script that leverages <a href="https://gpt-index.readthedocs.io/en/latest/index.html">LlamaIndex</a> to interpret rows from the far.dw_grants table. You can write questions, which then get fed into ChatGPT for interpretation based on the database data. ChatGPT will write an answer back based on that data. 
 

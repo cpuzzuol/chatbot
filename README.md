@@ -24,3 +24,9 @@ You'll see the `/data` directory includes a sample file pulled down from the `fa
 
 Run the file `chat.py`. You can also tweak the queries in there. 
 
+**Resources**
+
+YouTube tutorial: https://www.youtube.com/watch?v=sUSw9MaPm2M
+LlamaIndex Docs: https://gpt-index.readthedocs.io/en/latest/index.html
+
+
